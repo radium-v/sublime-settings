@@ -1,0 +1,4 @@
+{
+    "cmd": ["java", "-jar",  "~/src/web-site/compilers/yuicompressor.jar", "$file", "-o", "${file_base_name}-min.${file_extension}", "--charset", "utf-8"],
+    "selector": "source.js"
+}

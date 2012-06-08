@@ -1,0 +1,27 @@
+[
+    { "caption" : "-", "id" : "context-convert-end"},
+    {
+        "caption" : "Convert",
+        "id" : "context-convert",
+        "children" :
+        [
+            { "command": "convert_tabs_to_spaces", "caption" : "Tabs to Spaces" },
+            { "command": "convert_spaces_to_tabs", "caption" : "Spaces to Tabs" },
+            { "caption": "-" },
+            { "command": "convert_chars_to_html", "caption" : "Chars to Html Entities" },
+            { "command": "convert_html_to_chars", "caption" : "Html Entities to Chars" },
+            { "caption": "-" },
+            { "command": "convert_camel_underscores", "caption" : "Camel <-> Underscores" },
+            { "caption": "-" },
+            { "command": "convert_to_unicode_notation", "caption" : "To Unicode Notation" },
+            { "command": "convert_from_unicode_notation", "caption" : "From Unicode Notation" },
+            { "command": "convert_to_base64", "caption" : "To Base64" },
+            { "command": "convert_from_base64", "caption" : "From Base64" },
+            { "command": "convert_md5", "caption" : "Calculate MD5"},
+            { "caption": "-" },
+            { "command": "convert_time_format", "caption": "Unixtime <-> Date" },
+            { "command": "insert_timestamp", "caption": "Insert current date" }
+        ]
+    },
+    { "caption" : "-", "id" : "context-convert-end"}
+]

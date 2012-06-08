@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": 1339179240,
+	"installed_packages":
+	[
+		"AutoSelect",
+		"Case Conversion",
+		"CTags",
+		"CTags for PHP",
+		"Dogs Colour Scheme",
+		"HTML5",
+		"HtmlTidy",
+		"Indent XML",
+		"LoremIpsum",
+		"Package Control",
+		"PhpTidy",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"ST2SyntaxFromFileName",
+		"Sublime Files",
+		"Sublime-HTMLPrettify",
+		"Sublime-Text-2-Plugins",
+		"SublimeREPL",
+		"Synchronized File Scrolling",
+		"Theme - Soda",
+		"xml-guesser",
+		"zenburn",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/dotzero/Sublime-Text-2-Plugins",
+		"https://github.com/kuroir/SCSS.tmbundle",
+		"https://github.com/wuub/SublimePTY.git"
+	]
+}
